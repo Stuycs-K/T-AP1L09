@@ -21,11 +21,10 @@ You will be CREATING YOUR OWN diagrams and adding them to your repo. You will be
 
 You must add your diagrams just like a regular source file. Put them in your local repo, and add/commit/push.
 
-A diagram of `add(index,value)` is required
+A diagram of `add(index,value)` is required, include 3 cases: empty, add to front, add to middle. (add to end is same concept as add to front)
 
-A diagram of `remove()` is required It is the same for by value or by index.
+A diagram of `remove()` is required. Since remove(value) or remove(index) are identical, so provide either one. Include removeing the front, and removing middle.
 
-The diagram should include the special cases (such as adding to the end when the list is empty)
 
 Update this README.md file to include your images. (add the image to your repo, and change the cat.jpg links above.)
 
